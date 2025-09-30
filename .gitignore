@@ -1,0 +1,18 @@
+# Local environment files
+.env
+
+# macOS metadata
+.DS_Store
+
+# Virtual environments
+venv/
+
+# Airflow runtime artifacts
+logs/
+
+# Data files generated or sourced locally
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
