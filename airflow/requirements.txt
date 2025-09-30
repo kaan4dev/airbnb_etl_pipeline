@@ -1,0 +1,6 @@
+pyspark
+google-cloud-bigquery
+db-dtypes
+matplotlib
+seaborn
+pyarrow

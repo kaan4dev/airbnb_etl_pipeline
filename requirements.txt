@@ -1,0 +1,8 @@
+pandas
+pyspark
+google-cloud-bigquery
+db-dtypes
+apache-airflow
+matplotlib
+seaborn
+pyarrow
