@@ -1,6 +1,6 @@
-🏠 Airbnb ETL Pipeline with PySpark, BigQuery & Airflow
+# Airbnb ETL Pipeline with PySpark, BigQuery & Airflow
 
-# Project Overview
+## Project Overview
 This project demonstrates an **end-to-end ETL (Extract – Transform – Load) pipeline** built on the **Airbnb dataset**.  
 The pipeline extracts raw data, cleans and transforms it with PySpark, loads the results into Google BigQuery, and enables rich SQL analysis.  
 Finally, the workflow is orchestrated with Apache Airflow.
