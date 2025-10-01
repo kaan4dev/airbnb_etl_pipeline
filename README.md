@@ -87,7 +87,4 @@ With this project, i:
 * Integrated with Google Cloud Storage and BigQuery,
 * Automated the workflow using Airflow,
 * Conducted SQL analysis and visualization in Jupyter Notebook.
-
-
-Do you want me to also **add a pipeline diagram (architecture graphic)** to the README so it looks even more professional?
 ```
